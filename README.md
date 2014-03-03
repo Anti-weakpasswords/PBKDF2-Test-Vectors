@@ -1,4 +1,4 @@
 PBKDF2-Test-Vectors
 ===================
 
-Libreoffice Calc based test vector creation
+See Releases for LibreOffice Calc based test vector creation
